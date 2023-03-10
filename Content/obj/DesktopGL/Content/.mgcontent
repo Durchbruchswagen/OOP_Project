@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/User/Desktop/cthulu/PO/Projekt/ProjektPO/ProjektPO/Content/Backgrounds/Layer0_1.png</File>
+    <File>C:/Users/User/Desktop/cthulu/PO/Projekt/ProjektPO/ProjektPO/Content/Backgrounds/Layer0_10.png</File>
+    <File>C:/Users/User/Desktop/cthulu/PO/Projekt/ProjektPO/ProjektPO/Content/Backgrounds/Layer0_2.png</File>
+    <File>C:/Users/User/Desktop/cthulu/PO/Projekt/ProjektPO/ProjektPO/Content/Backgrounds/Layer0_3.png</File>
+    <File>C:/Users/User/Desktop/cthulu/PO/Projekt/ProjektPO/ProjektPO/Content/Backgrounds/Layer0_4.png</File>
+    <File>C:/Users/User/Desktop/cthulu/PO/Projekt/ProjektPO/ProjektPO/Content/Backgrounds/Layer0_5.png</File>
+    <File>C:/Users/User/Desktop/cthulu/PO/Projekt/ProjektPO/ProjektPO/Content/Backgrounds/Layer0_6.png</File>
+    <File>C:/Users/User/Desktop/cthulu/PO/Projekt/ProjektPO/ProjektPO/Content/Backgrounds/Layer0_7.png</File>
+    <File>C:/Users/User/Desktop/cthulu/PO/Projekt/ProjektPO/ProjektPO/Content/Backgrounds/Layer0_8.png</File>
+    <File>C:/Users/User/Desktop/cthulu/PO/Projekt/ProjektPO/ProjektPO/Content/Backgrounds/Layer0_9.png</File>
+    <File>C:/Users/User/Desktop/cthulu/PO/Projekt/ProjektPO/ProjektPO/Content/Fonts/font.spritefont</File>
+    <File>C:/Users/User/Desktop/cthulu/PO/Projekt/ProjektPO/ProjektPO/Content/Sprites/Imp/fire-ball.png</File>
+    <File>C:/Users/User/Desktop/cthulu/PO/Projekt/ProjektPO/ProjektPO/Content/Sprites/Imp/idle.png</File>
+    <File>C:/Users/User/Desktop/cthulu/PO/Projekt/ProjektPO/ProjektPO/Content/Sprites/Imp/run.png</File>
+    <File>C:/Users/User/Desktop/cthulu/PO/Projekt/ProjektPO/ProjektPO/Content/Sprites/Nightmare/idle.png</File>
+    <File>C:/Users/User/Desktop/cthulu/PO/Projekt/ProjektPO/ProjektPO/Content/Sprites/Nightmare/run.png</File>
+    <File>C:/Users/User/Desktop/cthulu/PO/Projekt/ProjektPO/ProjektPO/Content/Sprites/Player/attack.png</File>
+    <File>C:/Users/User/Desktop/cthulu/PO/Projekt/ProjektPO/ProjektPO/Content/Sprites/Player/die.png</File>
+    <File>C:/Users/User/Desktop/cthulu/PO/Projekt/ProjektPO/ProjektPO/Content/Sprites/Player/idle.png</File>
+    <File>C:/Users/User/Desktop/cthulu/PO/Projekt/ProjektPO/ProjektPO/Content/Sprites/Player/jump.png</File>
+    <File>C:/Users/User/Desktop/cthulu/PO/Projekt/ProjektPO/ProjektPO/Content/Sprites/Player/run.png</File>
+    <File>C:/Users/User/Desktop/cthulu/PO/Projekt/ProjektPO/ProjektPO/Content/Sprites/Skull/idle.png</File>
+    <File>C:/Users/User/Desktop/cthulu/PO/Projekt/ProjektPO/ProjektPO/Content/Sprites/Skull/run.png</File>
+    <File>C:/Users/User/Desktop/cthulu/PO/Projekt/ProjektPO/ProjektPO/Content/Sprites/Tile/tile.png</File>
+    <File>C:/Users/User/Desktop/cthulu/PO/Projekt/ProjektPO/ProjektPO/Content/Sprites/Tile/tile_platform.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
